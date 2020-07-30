@@ -1,11 +1,11 @@
-# Guardian
-Guardian, a purpose built anti-nuke Discord bot.
+# CENTRAL ANTI NUKE
+Central Anti Nuke, a purpose built anti-nuke Discord bot.
 
 ---
 
-#### How Guardian Works
+#### How Central Works
 
-Guardian allows server owners to set strict limits on administration actions. These actions include: bans, kicks, channel creations/deletions, and role creations/deletions. Once these limits are met, their Discord permissions are automatically revoked via removing all of their roles.
+Central allows server owners to set strict limits on administration actions. These actions include: bans, kicks, channel creations/deletions, and role creations/deletions. Once these limits are met, their Discord permissions are automatically revoked via removing all of their roles.
 
 ---
 
@@ -27,23 +27,23 @@ Guardian allows server owners to set strict limits on administration actions. Th
 
 *You can mention the bot instead of using a prefix*
 
-**`g!prefix [prefix]`** Displays the current prefix, changes the prefix if specified
+**`;;prefix [prefix]`** Displays the current prefix, changes the prefix if specified
 
-**`g!limits [index] [value]`** Displays the limits, changes an index's value if specified
+**`;;limits [index] [value]`** Displays the limits, changes an index's value if specified
 
-**`g!reset [type]`** Resets the specified data or collection
+**`;;reset [type]`** Resets the specified data or collection
 
-**`g!recent [ID]`** Displays recent moderation actions that can trigger the bot's limits
+**`;;recent [ID]`** Displays recent moderation actions that can trigger the bot's limits
 
 ---
 
 #### Example Images
 
-*g!limits command* <br>
+*;;limits command* <br>
 ![](https://i.plexidev.org/w05p)
 
 *Image of a limit reached notification* <br>
 ![](https://i.plexidev.org/gVYq)
 
-*g!recent command* <br>
+*;;help command* <br>
 ![](https://i.plexidev.org/nfMD)
