@@ -40,7 +40,7 @@ Central allows server owners to set strict limits on administration actions. The
 #### Example Images
 
 *;;limits command* <br>
-![](https://gyazo.com/26c948bf31bef2749865a6d2dc96d47a)
+![limits](https://user-images.githubusercontent.com/63293571/89131904-f1519680-d4d5-11ea-8731-00b34d3442b9.JPG)
 
 *Image of a limit reached notification* <br>
 ![](https://gyazo.com/2f8cc7b5408d7c291d69ee55ebce0ef3)
