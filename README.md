@@ -3,6 +3,18 @@ Central Anti Nuke, a purpose built anti-nuke Discord bot.
 
 ---
 
+### Glitch
+If you want to properly host this bot I suggest hosting it on Glitch
+Glitch allows you to have easier access to editting and sharing the Bot
+
+---
+
+### CREDITS
+All me. Bot made by Kumi. Dont skid. 
+#shout out to guardian
+
+---
+
 #### How Central Works
 
 Central allows server owners to set strict limits on administration actions. These actions include: bans, kicks, channel creations/deletions, and role creations/deletions. Once these limits are met, their Discord permissions are automatically revoked via removing all of their roles.
