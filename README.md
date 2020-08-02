@@ -43,7 +43,7 @@ Central allows server owners to set strict limits on administration actions. The
 ![limits](https://user-images.githubusercontent.com/63293571/89131904-f1519680-d4d5-11ea-8731-00b34d3442b9.JPG)
 
 *Image of a limit reached notification* <br>
-![](https://gyazo.com/2f8cc7b5408d7c291d69ee55ebce0ef3)
+![limit reached](https://user-images.githubusercontent.com/63293571/89131940-1c3bea80-d4d6-11ea-8f50-3d9c7e1cbad8.JPG)
 
 *;;help command* <br>
 ![](https://gyazo.com/a25cdd3dffde6d1be12595f2f0071e4e)
