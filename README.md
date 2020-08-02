@@ -40,10 +40,10 @@ Central allows server owners to set strict limits on administration actions. The
 #### Example Images
 
 *;;limits command* <br>
-![](https://i.plexidev.org/w05p)
+![](https://gyazo.com/26c948bf31bef2749865a6d2dc96d47a)
 
 *Image of a limit reached notification* <br>
-![](https://i.plexidev.org/gVYq)
+![](https://gyazo.com/2f8cc7b5408d7c291d69ee55ebce0ef3)
 
 *;;help command* <br>
-![](https://i.plexidev.org/nfMD)
+![](https://gyazo.com/a25cdd3dffde6d1be12595f2f0071e4e)
