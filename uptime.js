@@ -15,4 +15,4 @@ setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000)
 
-// dm Tyrell for help also download the express module and http just do npm i express and npm i http
+// dm 01tro for help also download the express module and http just do npm i express and npm i http
