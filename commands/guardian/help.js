@@ -15,8 +15,8 @@ class HelpCommand extends Command {
         const prefix = message.guild.prefix;
          
         embed.setColor("609131")
-        embed.setThumbnail("https://cdn.discordapp.com/attachments/728142026003972127/737525031558578176/01tronigga.gif")
-        embed.setAuthor(" HAULKEM/CHRISTIAN | informaton | ;;help", "https://cdn.discordapp.com/attachments/728142026003972127/737525087229706280/michaeljordan.JPG")
+        embed.setThumbnail("https://cdn.discordapp.com/attachments/726297142989160480/742892987910062151/discord_loading.gif")
+        embed.setAuthor(" CENTRAL ANTINUKE | informaton | ;;help", "https://cdn.discordapp.com/attachments/726297142989160480/742894211359309844/coollogo_com-15745744.png")
         embed.addField("__> *Anti Nuke Commands*__","*Limits, recent, reset, MORE OTW*")
         embed.addField("__> *BETA VERSION*__", "Still in development so text me if theres bugs")
         embed.addField("__> *Bot Info :*__", "`The Anti-Nuke is already on once it joins the server. Nothing else needs to be done. Also dont be a idiot and give out admin to abunch of people. Dm 01tro#4444 for more info.`")
