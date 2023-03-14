@@ -9,14 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plexidev/discord-guardian.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plexidev/discord-guardian/issues"
   },
-  "homepage": "https://github.com/plexidev/discord-guardian#readme",
   "engines": {
     "node": "12.x"
   },
