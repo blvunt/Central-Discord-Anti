@@ -9,9 +9,7 @@ dependencies:
   dotenv-webpack: 1.8.0
   node-fetch: 2.6.0
   parse-ms: 2.1.0
-  path: 0.12.7
-  quick.db: github.com/truexpixels/quick.db/1ec09504793df3055e034803132f409ca32fc5fc
-  sequelize: 5.21.10
+  path: 0.12.  sequelize: 5.21.10
 packages:
   /@discordjs/collection/0.1.5:
     dev: false
